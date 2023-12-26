@@ -1,23 +1,14 @@
-<h1 align="center" id="name">Dandraghas</h1>
-
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&size=30?random=true&center=true&lines=I+use+Arch+BTW;*explodes*">
-  </a>
+<h2>
+    <img src="assets/banner.jpg" alt="Banner">
 </h2>
 
-### <h3 align="center">About Me:</h3>
+Projects:
 
-<p align="center">
-  Hi
-  <br>
-  There not to much, on this page, almost all of my repos are  private
-</p>
+- [yarw](https://github.com/yarwhq/yarw)
+- [uuidtools](https://github.com/yarwhq/uuidtools)
 
-<hr>
-
-<h2 align="center">Things i may know:</h2><br>
-<p align="center">
+<h2>Knowledge:</h2><br>
+<p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -26,7 +17,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       alt="html5"
@@ -46,14 +37,6 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -62,7 +45,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"
       alt="bash"
@@ -70,7 +53,7 @@
       height="40"
     />
   </a>
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       alt="bash"
@@ -78,13 +61,12 @@
       height="40"
     />
   </a>
-    </a>
-      <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-      alt="bash"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+      alt="rust"
       width="40"
       height="40"
+      style="filter: invert(38%) sepia(82%) saturate(2181%) hue-rotate(349deg) brightness(91%) contrast(92%);"
     />
-  </a>
 </p>
